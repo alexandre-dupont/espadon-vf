@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Indie+Flower&family=Pathway+Gothic+One&family=Spirax&display=swap');
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/btn-red.css");
+
+
+body {
+	font-family: 'Spirax', cursive;
+	font-size: 20px;
+	color: #464D5E;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Didact Gothic', sans-serif;
+	margin-bottom: -20px;
+	color: #FD8926;
+}
+
+h2 {
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
